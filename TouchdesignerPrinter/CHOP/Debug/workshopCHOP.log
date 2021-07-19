@@ -1,0 +1,9 @@
+﻿  Printer.cpp
+c:\users\administrator\desktop\test_houzi\chop\chop\printer.cpp(109): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+c:\users\administrator\desktop\test_houzi\chop\chop\printer.cpp(110): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+c:\users\administrator\desktop\test_houzi\chop\chop\printer.cpp(111): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+    正在创建库 C:\Users\Administrator\Desktop\Test_houzi\CHOP\CHOP\Debug\Printer.lib 和对象 C:\Users\Administrator\Desktop\Test_houzi\CHOP\CHOP\Debug\Printer.exp
+  workshopCHOP.vcxproj -> C:\Users\Administrator\Desktop\Test_houzi\CHOP\CHOP\Debug\Printer.dll
